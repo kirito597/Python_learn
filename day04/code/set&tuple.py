@@ -3,6 +3,7 @@
 s = {'a','b','c','d','a'},
 print(s)
 
+#利用集合实现列表去重
 list1 = ['a', 'b', 'c', 'd', 'b', 'a']
 s = set(list1)
 list2 = list(s)
