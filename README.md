@@ -1,2 +1,3 @@
 # Python_learn
-学习pthon的时候的一些内容
+学习python的时候的一些内容
+可以进入note目录对比笔记进行观看
